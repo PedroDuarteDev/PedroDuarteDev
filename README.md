@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PedroDuarteDev
+- 👀 I’m interested in web development, mostly front end.
+- 🌱 I’m currently learning java script and php.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: pedro.josue2198@gmail.com
